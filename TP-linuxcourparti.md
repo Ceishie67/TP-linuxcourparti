@@ -127,3 +127,12 @@ sudo nano /etc/sysconfig/network-scripts/ifcfg-enp0s8
 
 
 ### 🌞 Testez la connectivité entre les machines :
+
+#### Etudiant vers Routeur :
+
+![Alt text](capture%20d'écran/etudiant_vers_routeur.png)
+
+#### Mentor vers Routeur :
+
+![Alt text](capture%20d'écran/Mentor_vers_routeur.png)
+
