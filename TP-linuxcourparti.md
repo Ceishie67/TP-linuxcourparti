@@ -136,3 +136,6 @@ sudo nano /etc/sysconfig/network-scripts/ifcfg-enp0s8
 
 ![Alt text](capture%20d'écran/Mentor_vers_routeur.png)
 
+#### Etudiant vers Mentor
+
+![Alt text](capture%20d'écran/ping_étudiant_vers_Mentor.png)
